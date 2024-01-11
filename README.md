@@ -53,20 +53,12 @@ Too sensitive for model complexty so It lead to not perfect performance
 use ensampling technique 
 
      input
+     
+   /       \
+   
+VGG --------   Res
 
-       |
-
----------------
-
-|              |
-
-VGG            Res
-
-
-|              |
- ---------------
-
-      |
-
+   \       /
+   
       FC
       
