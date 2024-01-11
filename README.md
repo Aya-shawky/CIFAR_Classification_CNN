@@ -54,11 +54,9 @@ use ensampling technique
 
      input
      
-   /   ---   \
    
 VGG --------   Res
 
-   \  ---  /
-   
-      FC
+
+     FC
       
